@@ -1,9 +1,15 @@
 # Predicting Startup Outcomes in Pakistan
 
+[![First Study](https://img.shields.io/badge/First_Study-GCU_Statistics-10B981?style=for-the-badge)](https://github.com/zoha-ehsan/startup-outcomes-pakistan)
+
 ## 📊 Overview
 This repository contains my BS (Hons) Statistics thesis submitted to **GC University, Lahore**. 
-The study uses an integrated econometric and multidimensional statistical approach to predict 
-startup outcomes in Pakistan, focusing on survival status and revenue performance.
+
+**This is the first study in the Department of Statistics at GCU Lahore** to apply an integrated 
+econometric and multidimensional statistical approach to predict startup outcomes in Pakistan, 
+specifically focusing on:
+- Survival status (Active vs Closed)
+- Revenue performance
 
 ## 🔍 Research Questions
 1. What are the main characteristics of startups operating in Pakistan?
