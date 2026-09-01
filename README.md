@@ -29,22 +29,6 @@ startup outcomes in Pakistan, focusing on survival status and revenue performanc
 - **ANOVA & T-Tests** — Group comparisons
 - **Distribution Fitting (EasyFit)** — Probability distributions
 
-## 📂 Files
-| File | Description |
-|------|-------------|
-| `thesis-pakistan-startups.pdf` | Full thesis document |
-| `code/` | R scripts for all analyses |
-| `data/startup_data.csv` | Dataset (anonymized) |
-| `presentation/` | Defense slides |
-| `images/` | Visualizations from the study |
-
-## 📊 Sample Visualizations
-![Kaplan-Meier Survival Curve](images/kaplan_meier_curve.png)
-*Survival probability by growth status. Only 30.6% of negative-growth startups survive past year 7.*
-
-![Cluster Plot](images/cluster_plot.png)
-*High Growth (8.7%) vs Mainstream (91.3%) clusters.*
-
 ## 🎯 Business Implications
 - **Entrepreneurs:** Prioritize growth over fundraising
 - **Investors:** Exercise caution funding startups without positive growth
