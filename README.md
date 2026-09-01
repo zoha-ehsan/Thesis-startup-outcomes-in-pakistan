@@ -1,10 +1,8 @@
 # Predicting Startup Outcomes in Pakistan
 
 [![First Study](https://img.shields.io/badge/FIRST_STUDY-Startups_in_Pakistan-10B981?style=for-the-badge)](https://github.com/zoha-ehsan/startup-outcomes-pakistan)
-[![Department](https://img.shields.io/badge/Department_of_Statistics-GCU_Lahore-0A66C2?style=for-the-badge)](https://gcu.edu.pk)
+[![Department of Statistics](https://img.shields.io/badge/Department_of_Statistics-GCU_Lahore-0A66C2?style=for-the-badge)](https://gcu.edu.pk)
 [![GCU Lahore](https://img.shields.io/badge/GCU_Lahore-Pakistan-800000?style=for-the-badge)](https://gcu.edu.pk)
-
-# Predicting Startup Outcomes in Pakistan
 ## 📊 Overview
 This repository contains my BS (Hons) Statistics thesis submitted to **GC University, Lahore**. 
 
